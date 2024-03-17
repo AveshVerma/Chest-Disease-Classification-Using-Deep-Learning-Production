@@ -13,4 +13,17 @@
 7. Update the main.py
 8. Update the dvc.yaml 
 
+# MLFlow
 
+MLFLOW_TRACKING_URI=https://dagshub.com/verma.avesh001/Chest-Disease-Classification-Using-Deep-Learning-Production.mlflow \
+MLFLOW_TRACKING_USERNAME=verma.avesh001 \
+MLFLOW_TRACKING_PASSWORD=e335419c38f5a8f74823e46dcd23a95f28e795e5 \
+python script.py
+
+# Export MLFlow variables
+ 
+ export MLFLOW_TRACKING_URI=https://dagshub.com/verma.avesh001/Chest-Disease-Classification-Using-Deep-Learning-Production.mlflow \
+
+ export MLFLOW_TRACKING_USERNAME=verma.avesh001 \
+
+ export MLFLOW_TRACKING_PASSWORD=e335419c38f5a8f74823e46dcd23a95f28e795e5 \
