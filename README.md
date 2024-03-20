@@ -29,6 +29,6 @@ python script.py
  export MLFLOW_TRACKING_PASSWORD=e335419c38f5a8f74823e46dcd23a95f28e795e5 \
 
 # DVC cmd
-dvc init
-dvc repro
-dvc dag
+dvc init - Initialize DVC inside a git repo
+dvc repro -- To start the pipeline
+dvc dag -- To get the diagram of the pipeline
