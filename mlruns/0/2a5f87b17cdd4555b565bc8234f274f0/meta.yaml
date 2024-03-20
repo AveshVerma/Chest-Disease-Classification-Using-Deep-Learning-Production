@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aveshverma/machine_learning/Chest-Disease-Classification-Using-Deep-Learning-Production/mlruns/0/2a5f87b17cdd4555b565bc8234f274f0/artifacts
+end_time: 1710941329066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a5f87b17cdd4555b565bc8234f274f0
+run_name: honorable-wasp-113
+run_uuid: 2a5f87b17cdd4555b565bc8234f274f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710941324311
+status: 3
+tags: []
+user_id: aveshverma

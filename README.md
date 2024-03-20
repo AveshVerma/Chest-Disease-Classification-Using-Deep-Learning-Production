@@ -27,3 +27,8 @@ python script.py
  export MLFLOW_TRACKING_USERNAME=verma.avesh001 \
 
  export MLFLOW_TRACKING_PASSWORD=e335419c38f5a8f74823e46dcd23a95f28e795e5 \
+
+# DVC cmd
+dvc init
+dvc repro
+dvc dag
