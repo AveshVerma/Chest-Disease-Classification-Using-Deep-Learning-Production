@@ -40,7 +40,7 @@ aws configure
 
 ## Now setup elastic IP on AWS
 
-
+# Now open Public IP:8080
 
 ## For getting the admin password for jenkins
 
